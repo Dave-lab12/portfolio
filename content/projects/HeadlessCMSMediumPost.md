@@ -1,15 +1,13 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'Color Generator'
+github: 'https://github.com/Dave-lab12/color-picker'
+external: 'https://color-generator-r.netlify.app/'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
+  - React.js
+
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Helps Generate hex code of your chose to a darker or lighter shade

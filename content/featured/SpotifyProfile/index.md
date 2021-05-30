@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Dios Store'
+cover: './shopping.png'
+github: 'https://github.com/Dave-lab12/dios-shopping'
+external: 'https://dios-shopping.netlify.app'
 tech:
   - React
   - Node.js
   - Express
-  - Spotify Web API
+  - MongoDB
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+An E-commerce project build on top of the MERN stack with admin functionality
+the admin can do basic CRUD operations and you must be authenticated to add or remove products

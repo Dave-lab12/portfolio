@@ -1,13 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Github Profile'
+cover: './gp.png'
+github: 'https://github.com/Dave-lab12/github-profile'
+external: 'https://github-preview.netlify.app'
 tech:
-  - Next.js
+  - React.js
   - Chart.js
   - GitHub API
+  - Tailwind css
 showInProjects: true
 ---
 

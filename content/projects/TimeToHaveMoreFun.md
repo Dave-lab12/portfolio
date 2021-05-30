@@ -1,14 +1,13 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Telegram bot'
+github: 'https://github.com/Dave-lab12/Simple-Telegram-Bot'
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - telegraf.js
+
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+play truth or dare with friends and tell you random jokes

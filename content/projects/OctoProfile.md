@@ -1,10 +1,10 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Github Profile'
+github: 'https://github.com/Dave-lab12/github-profile'
+external: 'https://github-preview.netlify.app'
 tech:
-  - Next.js
+  - React.js
   - Chart.js
   - GitHub API
 showInProjects: false
