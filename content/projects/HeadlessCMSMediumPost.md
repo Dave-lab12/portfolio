@@ -1,13 +1,13 @@
 ---
 date: '2019-11-12'
-title: 'Color Generator'
-github: 'https://github.com/Dave-lab12/color-picker'
-external: 'https://color-generator-r.netlify.app/'
+title: 'Weather App'
+github: 'https://github.com/Dave-lab12/React-weather-app'
+external: ''
 tech:
   - React.js
 
-company: 'Upstatement'
+company: ''
 showInProjects: true
 ---
 
-Helps Generate hex code of your chose to a darker or lighter shade
+A react app that uses open weather API to get you the weather data of the country or city you entered
