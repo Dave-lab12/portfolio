@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-07-14'
+title: 'Frontend Developer'
+company: 'Singularitynet'
+location: 'Amsterdam, NL'
+range: 'October 2021 - Present'
+url: 'https://singularitynet.io/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
+- Develop responsive and performant UI components
+- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, jquery, wordpress and React
 - Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
